@@ -1,0 +1,2 @@
+# jshint
+Baseline configuration
